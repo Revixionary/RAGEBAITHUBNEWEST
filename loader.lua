@@ -1,7 +1,7 @@
 -- ragebait hub loader
 -- checks key against server before loading hub
 
-local KEY_SERVER = "https://web-production-a59aa.up.railway.app/validate?key="
+local KEY_SERVER = "https://web-production-a59aa.up.railway.app"
 local HUB_URL = "https://raw.githubusercontent.com/Revixionary/RAGEBAITHUBNEWEST/main/output.lua"
 
 local Players = game:GetService("Players")
